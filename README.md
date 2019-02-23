@@ -10,3 +10,9 @@ Ponentes:
 * María Camila Remolina: Descubriendo los misterios del universo con Python
 
 Lugar: Bizagi, gracias a Juan Pablo Gomez <3 
+
+2. Segundo meetup en Bogota, Julio 18 de 2018
+Ponentes:
+* Isabella Lopez: Teoría de conjuntos con Python
+* David Perez: Intro a Git y GitHub
+
