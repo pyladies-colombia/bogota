@@ -1,0 +1,25 @@
+name: Add To GitHub projects
+description: Automatically add issues and PRs to GitHub projects
+author: GitHub
+branding:
+  icon: table
+  color: white
+inputs:
+  project-url:
+    required: true
+    description: https://github.com/orgs/pyladies-colombia/projects/1
+  github-token:
+    required: true
+    description: ${{ secrets.ERTYUI }}
+  labeled:
+    required: false
+    description: 
+  label-operator:
+    required: false
+    description: 
+outputs:
+  itemId:
+    description: 
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
